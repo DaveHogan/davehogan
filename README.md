@@ -9,7 +9,7 @@ I've developed software professionally since 2002, starting as a modern apprenti
 I have far too many hobbies, including `Programming`, `Blockchain`, `Gym`, `3D Printing`, and `Music Theory`. I also attempt to play the `Piano` and `Guitar`.
 
 #### Current Experience
-I primarily work with the Microsoft stack, including `C#`, `MAUI`, `Razor`, `Blazor`, `Azure`, `MS SQL Server`, and `Azure DevOps (CI/CD)` full-time in the corporate world. I have several personal projects to keep me up-to-date and explore tech I don't get to explore in the day-to-day work, with [Gym Directory UK](https://gymdirectory.co.uk)  being the most recent.
+I primarily work with the Microsoft stack, including `C#`, `MAUI`, `Razor`, `Blazor`, `Azure`, `MS SQL Server`, and `Azure DevOps (CI/CD)` full-time in the corporate world. I have several personal projects to keep me up-to-date and explore tech I don't get to explore in the day-to-day work, with [Gym Directory UK](https://gymdirectory.co.uk) and [Knight Tour Challenge](https://knightstourchallenge.com/)  being the most recent.
 
 #### Limited Past Experience
 I've also had some experience with `PHP`, `F#`, `TeamCity`, and `MySQL`.
